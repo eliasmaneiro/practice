@@ -6,4 +6,4 @@ class Animal {
 }
 
 const a = new Animal(2, 2)
-console.log(a)
+console.log({a})
