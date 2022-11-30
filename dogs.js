@@ -7,3 +7,5 @@ class Animal {
 }
 
 const a = new Animal()
+
+console.log(a.m())
